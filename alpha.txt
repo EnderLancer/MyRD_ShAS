@@ -1,2 +1,1 @@
-alpha
-WOW it's new line!
+and this delete
